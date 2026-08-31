@@ -1,6 +1,3 @@
-// calculator using process.argv
-// node calculator.js add 10 5
-
 const operation = process.argv[2];
 const num1 = parseFloat(process.argv[3]);
 const num2 = parseFloat(process.argv[4]);
